@@ -1,0 +1,17 @@
+dependencies:
+  - smartcontractkit/chainlink-brownie-contracts@0.6.1
+compiler:
+  solc:
+    remappings:
+      - "@chainlink=smartcontractkit/chainlink-brownie-contracts@0.6.1"
+dotenv: .env
+networks:
+  default: sepolia
+  sepolia:
+    vrf_coordinator: ${SEPOLIA_VRF_COORDINATOR}
+    link_token: ${SEPOLIA_VRF_LINK_TOKEN}
+    keyhash: ${SEPOLIA_VRF_KEYHASH}
+    fee: ${SEPOLIA_VRF_FEE}
+    verify: True
+wallets:
+  from_key: ${PRIVATE_KEY}
