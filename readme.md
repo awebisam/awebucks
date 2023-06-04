@@ -5,9 +5,9 @@ This repository contains the smart contracts for AweBucks Token, AweBucks Lotter
 
 ## Contract Addresses
 
-- AweBucks Token: [0x9b3DE377e205e5984bC27C4E8ac3969d7797D6Da](https://sepolia.ethereum.eth/blocks/0x9b3DE377e205e5984bC27C4E8ac3969d7797D6Da) (Verified on Etherscan)
-- AweBucks Lottery: [0x3C181aB4cA968b96314A1792d34841FE895374E1](https://sepolia.ethereum.eth/blocks/0x3C181aB4cA968b96314A1792d34841FE895374E1) (Verified on Etherscan)
-- Faucet: [0x14Cd80B494Ab86b23b7d40bcF0501F830067A066](https://sepolia.ethereum.eth/blocks/0x14Cd80B494Ab86b23b7d40bcF0501F830067A066) (Verified on Etherscan)
+- AweBucks Token: [0x9b3DE377e205e5984bC27C4E8ac3969d7797D6Da](https://sepolia.etherscan.io/address/0x9b3DE377e205e5984bC27C4E8ac3969d7797D6Da) (Verified on Etherscan)
+- AweBucks Lottery: [0x3C181aB4cA968b96314A1792d34841FE895374E1](https://sepolia.etherscan.io/address/0x3C181aB4cA968b96314A1792d34841FE895374E1) (Verified on Etherscan)
+- Faucet: [0x14Cd80B494Ab86b23b7d40bcF0501F830067A066](https://sepolia.etherscan.io/address/0x14Cd80B494Ab86b23b7d40bcF0501F830067A066) (Verified on Etherscan)
 
 ## AweBucks Token
 
@@ -47,11 +47,11 @@ To interact with the AweBucks Token, AweBucks Lottery, or Faucet contracts on th
 
 2. Use the respective contract addresses mentioned above to interact with the contracts:
 
-   - AweBucks Token: Use the contract address [0x9b3DE377e205e5984bC27C4E8ac3969d7797D6Da](https://sepolia.ethereum.eth/blocks/0x9b3DE377e205e5984bC27C4E8ac3969d7797D6Da) to access the AweBucks token functionality.
+   - AweBucks Token: Use the contract address [0x9b3DE377e205e5984bC27C4E8ac3969d7797D6Da](https://sepolia.etherscan.io/address/0x9b3DE377e205e5984bC27C4E8ac3969d7797D6Da) to access the AweBucks token functionality.
 
-   - AweBucks Lottery: Use the contract address [0x3C181aB4cA968b96314A1792d34841FE895374E1](https://sepolia.ethereum.eth/blocks/0x3C181aB4cA968b96314A1792d34841FE895374E1) to participate in the lottery and interact with the lottery functionalities.
+   - AweBucks Lottery: Use the contract address [0x3C181aB4cA968b96314A1792d34841FE895374E1](https://sepolia.etherscan.io/address/0x3C181aB4cA968b96314A1792d34841FE895374E1) to participate in the lottery and interact with the lottery functionalities.
 
-   - Faucet: Use the contract address [0x14Cd80B494Ab86b23b7d40bcF0501F830067A066](https://sepolia.ethereum.eth/blocks/0x14Cd80B494Ab86b23b7d40bcF0501F830067A066) to request AweBucks tokens from the faucet.
+   - Faucet: Use the contract address [0x14Cd80B494Ab86b23b7d40bcF0501F830067A066](https://sepolia.etherscan.io/address/0x14Cd80B494Ab86b23b7d40bcF0501F830067A066) to request AweBucks tokens from the faucet.
 
 ## Contributing
 
